@@ -26,7 +26,7 @@ Rozdział 2
 
 Ów rok, iż z woli bogów o prędkim powrocie
 Do Itaki mógł myśleć, to jeszcze i wtedy
-Nie ujrzał swoich, końca nie widział swej biedy.
+Nie ujrzał swoich, końca nie widział swej biedy,
 Zgoła wszystkim niebianom żal było tułacza;
 Posejdon sam mu tylko mściwy nie przebacza
 I wciąż, póki nie wrócił do dom, ścigał w tropy. 
@@ -67,3 +67,12 @@ Więc na to mu Atene rzekła sowiooka:
 „Ojcze, o mój Kronidzie! Cześć tobie wysoka,
 Że on zdrajca wziął karę słuszną za swe zbytki:
 Oby tak każdy ginął, jak on zbrodniarz brzydki!
+
+Za to serce się kraje, gdy na myśl mi przydzie
+Ów nasz dzielny Odysej, co tyle lat w biedzie,
+Siedzi tam udręczony, tęskniący za domem,
+Na ostrowiu lesistym, wkoło mórz ogromem
+Oblanym, kędy nimfa mieszka tam urodna,
+Córa Atlasa, morze znającego do dna,
+Barkiem dźwigającego wielkie słupy one,
+Na których wisi z ziemią niebo zawieszone.
